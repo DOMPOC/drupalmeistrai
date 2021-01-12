@@ -21,7 +21,12 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/drupal-8.7.3/themes" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -45,7 +50,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1610450925383</updated>
-      <workItem from="1610450926428" duration="2186000" />
+      <workItem from="1610450926428" duration="3478000" />
     </task>
     <servers />
   </component>
@@ -53,10 +58,10 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="72" y="178" key="#Deployment" timestamp="1610451322636">
+    <state x="72" y="178" key="#Deployment" timestamp="1610455038561">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="72" y="178" key="#Deployment/0.0.1920.1040@0.0.1920.1040" timestamp="1610451322636" />
+    <state x="72" y="178" key="#Deployment/0.0.1920.1040@0.0.1920.1040" timestamp="1610455038561" />
     <state x="325" y="403" key="#Drupal" timestamp="1610451261681">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -65,9 +70,13 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="260" y="261" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1610451258076" />
-    <state x="313" y="250" key="ftp.server.browser" timestamp="1610451206203">
+    <state x="313" y="250" key="ftp.server.browser" timestamp="1610455037702">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="313" y="250" key="ftp.server.browser/0.0.1920.1040@0.0.1920.1040" timestamp="1610451206203" />
+    <state x="313" y="250" key="ftp.server.browser/0.0.1920.1040@0.0.1920.1040" timestamp="1610455037702" />
+    <state x="756" y="257" key="webDeployment.PermissionsDialog.Tabs" timestamp="1610455124344">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="756" y="257" key="webDeployment.PermissionsDialog.Tabs/0.0.1920.1040@0.0.1920.1040" timestamp="1610455124344" />
   </component>
 </project>

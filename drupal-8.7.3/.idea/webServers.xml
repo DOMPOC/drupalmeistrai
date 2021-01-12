@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="e46a3571-a757-4cb9-b068-8dd749caecf9" name="Ftp1" url="http://domas.hostera.lt">
+        <fileTransfer rootFolder="/drupal-8.7.3" host="domas.hostera.lt" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
