@@ -2,3 +2,110 @@
  * If using a CSS pre-processor, tell it to overwrite this file. If not, place
  * your custom CSS modifications here.
  */
+*{
+  margin: 0 auto;
+}
+.container{
+  height:100px;
+  width: 100%;
+  position: relative;
+  right: 5%;
+}
+.container h1{
+  position: relative;
+  top: 10%;
+
+}
+.navi i{
+  position: absolute;
+  left: 80%;
+}
+.navi{
+  background-color: #36c98c;
+  text-align: center;
+  width:70%;
+  height: 80px;
+  padding-top: 20px;
+  top: 10%;
+  left: 15%;
+  border-radius: 2px;
+
+}
+.navi button{
+}
+nav{
+  align-content: center;
+
+}
+.mechanikai{
+  padding-top: 150px;
+  background-color: #d5ebe2;
+}
+.media h5{
+  font-size: 0.8em;
+  width: 30%;
+  position: relative;
+  right: 30%;
+  justify-content: center;
+  color: #000000;
+}
+.media p{
+  color: #000000;
+}
+.text{
+  position: relative;
+  top: 15%;
+
+}
+.media-body{
+  position: relative;
+  top: 15%;
+}
+.media{
+  border: 1px solid black;
+  position: relative;
+  width: 55%;
+  height: 160px;
+  justify-content: center;
+  padding-top: 2px;
+  background-color: white;
+}
+.media img{
+  width: 100px;
+  height: 100px;
+  position: relative;
+  top: 15%;
+  left: 3%;
+}
+
+.stars ul{
+  display: inline-block;
+  flex-direction: row;
+  padding: 0;
+}
+.stars li{
+  list-style-type: none;
+  justify-content: center;
+}
+.pagrindas{
+  background-color:  #d5ebe2;
+  width: 100%;
+}
+.hearth{
+  position: relative;
+  left: 75%;
+}
+.ending{
+  background-color: #4a3533;
+
+}
+footer{
+  margin-top: 35px;
+
+
+
+}
+footer h4{
+  text-align: center;
+  color: white;
+}
